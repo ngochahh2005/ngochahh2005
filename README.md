@@ -110,34 +110,33 @@ Dependency Injection hỗ trợ quản lý vòng đời các service trong ứng
 #### Đăng nhập và đăng ký
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/login-screen.png" width="220">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/register-screen.png" width="220">
+  <img src="./assets/screenshots/login-screen.png" width="220">
+  <img src="./assets/screenshots/register-screen.png" width="220">
 </p>
 
 #### Danh sách chat và trò chuyện
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/chat-screen.png" width="220">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/chat-detail-screen.png" width="220">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/send-message.png" width="220">
+  <img src="./assets/screenshots/chat-screen.png" width="220">
+  <img src="./assets/screenshots/chat-detail-screen.png" width="220">
+  <img src="./assets/screenshots/send-message.png" width="220">
 </p>
 
 #### Bạn bè và hồ sơ cá nhân
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/friends-screen.png" width="220">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/find-friend.png" width="220">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/profile-screen.png" width="220">
+  <img src="./assets/screenshots/friends-screen.png" width="220">
+  <img src="./assets/screenshots/find-friend.png" width="220">
+  <img src="./assets/screenshots/profile-screen.png" width="220">
 </p>
 
 #### Hình ảnh và sticker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/send-picture.png" width="220">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/send-sticker.png" width="220">
-  <img src="https://raw.githubusercontent.com/ngochahh2005/mock-chat/main/assets/screenshots/find-message.png" width="220">
+  <img src="./assets/screenshots/send-picture.png" width="220">
+  <img src="./assets/screenshots/send-sticker.png" width="220">
+  <img src="./assets/screenshots/find-message.png" width="220">
 </p>
-
 ---
 
 ## Kỹ năng kỹ thuật
